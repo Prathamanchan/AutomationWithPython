@@ -1,0 +1,5 @@
+-1) E: Unmet dependencies. Try 'apt --fix-broken install' with no packages (or specify a solution).
+
+https://askubuntu.com/questions/148383/how-to-resolve-dpkg-error-processing-var-cache-apt-archives-python-apport-2-0/266912
+
+-2) 
